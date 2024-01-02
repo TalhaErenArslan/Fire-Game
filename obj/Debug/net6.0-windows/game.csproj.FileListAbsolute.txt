@@ -1,0 +1,84 @@
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\bin\Debug\net6.0-windows\game.exe
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\bin\Debug\net6.0-windows\game.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\bin\Debug\net6.0-windows\game.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\bin\Debug\net6.0-windows\game.dll
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\bin\Debug\net6.0-windows\game.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\obj\Debug\net6.0-windows\game.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\obj\Debug\net6.0-windows\game_MarkupCompile.cache
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\obj\Debug\net6.0-windows\game_MarkupCompile.lref
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\obj\Debug\net6.0-windows\game.g.resources
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\obj\Debug\net6.0-windows\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\obj\Debug\net6.0-windows\game.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\obj\Debug\net6.0-windows\game.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\obj\Debug\net6.0-windows\game.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\obj\Debug\net6.0-windows\game.dll
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\obj\Debug\net6.0-windows\refint\game.dll
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\obj\Debug\net6.0-windows\game.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\obj\Debug\net6.0-windows\game.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\nesne_talha\game\obj\Debug\net6.0-windows\ref\game.dll
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\bin\Debug\net6.0-windows\game.exe
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\bin\Debug\net6.0-windows\game.deps.json
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\bin\Debug\net6.0-windows\game.runtimeconfig.json
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\bin\Debug\net6.0-windows\game.dll
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\bin\Debug\net6.0-windows\game.pdb
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\obj\Debug\net6.0-windows\game.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\obj\Debug\net6.0-windows\game_MarkupCompile.cache
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\obj\Debug\net6.0-windows\game_MarkupCompile.lref
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\obj\Debug\net6.0-windows\game.g.resources
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\obj\Debug\net6.0-windows\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\obj\Debug\net6.0-windows\game.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\obj\Debug\net6.0-windows\game.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\obj\Debug\net6.0-windows\game.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\obj\Debug\net6.0-windows\game.dll
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\obj\Debug\net6.0-windows\refint\game.dll
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\obj\Debug\net6.0-windows\game.pdb
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\obj\Debug\net6.0-windows\game.genruntimeconfig.cache
+C:\Users\talha\OneDrive\Belgeler\Programlar\Wpf\nesne_talha\game\obj\Debug\net6.0-windows\ref\game.dll
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\bin\Debug\net6.0-windows\game.exe
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\bin\Debug\net6.0-windows\game.deps.json
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\bin\Debug\net6.0-windows\game.runtimeconfig.json
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\bin\Debug\net6.0-windows\game.dll
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\bin\Debug\net6.0-windows\game.pdb
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\obj\Debug\net6.0-windows\game.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\obj\Debug\net6.0-windows\game_MarkupCompile.cache
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\obj\Debug\net6.0-windows\game_MarkupCompile.lref
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\obj\Debug\net6.0-windows\game.g.resources
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\obj\Debug\net6.0-windows\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\obj\Debug\net6.0-windows\game.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\obj\Debug\net6.0-windows\game.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\obj\Debug\net6.0-windows\game.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\obj\Debug\net6.0-windows\game.dll
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\obj\Debug\net6.0-windows\refint\game.dll
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\obj\Debug\net6.0-windows\game.pdb
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\obj\Debug\net6.0-windows\game.genruntimeconfig.cache
+C:\Users\talha\OneDrive\Belgeler\Programlar\Nesne Yönelimli Programlama\nesne_talha\game\obj\Debug\net6.0-windows\ref\game.dll
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\bin\Debug\net6.0-windows\game.exe
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\bin\Debug\net6.0-windows\game.deps.json
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\bin\Debug\net6.0-windows\game.runtimeconfig.json
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\bin\Debug\net6.0-windows\game.dll
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\bin\Debug\net6.0-windows\game.pdb
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\obj\Debug\net6.0-windows\game.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\obj\Debug\net6.0-windows\game_MarkupCompile.cache
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\obj\Debug\net6.0-windows\game_MarkupCompile.lref
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\obj\Debug\net6.0-windows\game.g.resources
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\obj\Debug\net6.0-windows\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\obj\Debug\net6.0-windows\game.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\obj\Debug\net6.0-windows\game.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\obj\Debug\net6.0-windows\game.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\obj\Debug\net6.0-windows\game.dll
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\obj\Debug\net6.0-windows\refint\game.dll
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\obj\Debug\net6.0-windows\game.pdb
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\obj\Debug\net6.0-windows\game.genruntimeconfig.cache
+C:\Users\talha\OneDrive\Belgeler\Programlar\1Projeler\nesneYonelimliProgramlama\nesne_talha\game\obj\Debug\net6.0-windows\ref\game.dll
