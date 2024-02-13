@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\talha\\OneDrive\\Belgeler\\Programlar\\1Projeler\\nesneYonelimliProgramlama\\nesne_talha\\game\\game.csproj": {}
+    "C:\\Users\\talha\\OneDrive\\Belgeler\\Programlar\\2.sınıf1.donem\\Nesne\\Projeler\\game\\game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\talha\\OneDrive\\Belgeler\\Programlar\\1Projeler\\nesneYonelimliProgramlama\\nesne_talha\\game\\game.csproj": {
+    "C:\\Users\\talha\\OneDrive\\Belgeler\\Programlar\\2.sınıf1.donem\\Nesne\\Projeler\\game\\game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\talha\\OneDrive\\Belgeler\\Programlar\\1Projeler\\nesneYonelimliProgramlama\\nesne_talha\\game\\game.csproj",
+        "projectUniqueName": "C:\\Users\\talha\\OneDrive\\Belgeler\\Programlar\\2.sınıf1.donem\\Nesne\\Projeler\\game\\game.csproj",
         "projectName": "game",
-        "projectPath": "C:\\Users\\talha\\OneDrive\\Belgeler\\Programlar\\1Projeler\\nesneYonelimliProgramlama\\nesne_talha\\game\\game.csproj",
+        "projectPath": "C:\\Users\\talha\\OneDrive\\Belgeler\\Programlar\\2.sınıf1.donem\\Nesne\\Projeler\\game\\game.csproj",
         "packagesPath": "C:\\Users\\talha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\talha\\OneDrive\\Belgeler\\Programlar\\1Projeler\\nesneYonelimliProgramlama\\nesne_talha\\game\\obj\\",
+        "outputPath": "C:\\Users\\talha\\OneDrive\\Belgeler\\Programlar\\2.sınıf1.donem\\Nesne\\Projeler\\game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\talha\\AppData\\Roaming\\NuGet\\NuGet.Config"

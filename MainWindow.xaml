@@ -5,9 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:game"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="1200" KeyDown="Window_KeyDown">
-        <Canvas Name="Canvas1" Height="500" Width="1000" Background="Gray"  HorizontalAlignment="Center" VerticalAlignment="Center"> 
-        <TextBlock x:Name="TitleText" Text="Ortalığı Ateşe Ver!" FontSize="40"  Margin="350,80,0,0"/>
-        <Button x:Name="StartButton" Content="Başla!"  Margin="500,150,0,0" Height="50" Width="50" Click="StartButton_Click"/>
+        Title="MainWindow" Height="550" Width="1200" KeyDown="Window_KeyDown">
+        <Canvas Name="Canvas1" Height="500" Width="1200" Background="Gray"  HorizontalAlignment="Center" VerticalAlignment="Center"> 
+        <TextBlock x:Name="TitleText" Text="Ortalığı Ateşe Ver!" FontSize="40"  Margin="450,80,0,0"/>
+        <Button x:Name="StartButton1" Content="Level 1!"  Margin="580,150,0,0" Height="50" Width="50" Click="StartButton_Click_Level1"/>
+         <Button x:Name="StartButton2" Content="Level 2!"  Margin="580,200,0,0" Height="50" Width="50" Click="StartButton_Click_Level2"/>
     </Canvas>
 </Window>
